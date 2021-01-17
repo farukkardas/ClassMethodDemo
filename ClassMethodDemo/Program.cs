@@ -57,7 +57,7 @@ namespace ClassMethodDemo
                 }
 
                 Console.WriteLine();
-                Console.Write("Silmek istediğiniz müşterinin numrasını girip enter tuşuna basınız: ");
+                Console.Write("Silmek istediğiniz müşterinin numarasını girip enter tuşuna basınız: ");
                 int girdi = Convert.ToInt32(Console.ReadLine());
 
                 if (girdi == 1)
