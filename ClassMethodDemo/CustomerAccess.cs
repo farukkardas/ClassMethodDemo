@@ -8,6 +8,7 @@ namespace ClassMethodDemo
     {
         public void AddCustomer(Customer customer)
         {
+            
             Console.Write("Müşterinin Adı: ");
             customer.Name = Console.ReadLine();
             Console.Write("Müşterinin Soyadı: ");
@@ -26,9 +27,9 @@ namespace ClassMethodDemo
             Console.WriteLine(customer.Name + " " + customer.Surname + " adlı müşteri sistemden silinmiştir.");
         }
 
-        public void ListCustomer(Customer Customer1, Customer Customer2, Customer Customer3)
+        public void ListCustomer(Customer customer1, Customer customer2, Customer customer3)
         {
-            Customer[] ListCustomer = new Customer[] { Customer1, Customer2, Customer3 };
+            Customer[] ListCustomer = new Customer[] { customer1, customer2, customer3 };
 
             int listSayac = 1;
             foreach (var item in ListCustomer )
