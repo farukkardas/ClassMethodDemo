@@ -7,6 +7,7 @@ namespace MyGame
     public class MenuServices
     {
         private CustomerManagerDal customerManager = new CustomerManagerDal();
+        private Customer customer = new Customer();
 
         private bool _kontrol = true;
         public void CustomerServices()
@@ -28,7 +29,7 @@ namespace MyGame
 
                 else if (_secim == 2)
                 {
-                    customerManager.AddCustomer();
+                    customerManager.Add();
                     _kontrol = false;
                 }
 

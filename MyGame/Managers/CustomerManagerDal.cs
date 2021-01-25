@@ -6,35 +6,38 @@ using System.Threading.Channels;
 
 namespace MyGame
 {
-    class CustomerManagerDal
+    public class CustomerManagerDal
     {
         private bool _kontrol = true;
 
-        public List<Customer> customers = new List<Customer>() { };
+        List<Customer> customers = new List<Customer>() { };
 
 
-
-        public void Add(Customer customer)
+        public void ListCustomer()
         {
-            customers.Add(customer);
-            Console.WriteLine();
-            Console.WriteLine("---Müşteri sisteme eklendi!---");
-            Console.WriteLine();
+            foreach (var x in customers)
+            {
+                int sayac = 1;
+                Console.WriteLine("{0}.Müşteri adı: {1}" + "\nSoyadı: {2}" + "\nT.C.No: {3}", sayac, x.FirstName, x.LastName, x.TcNo);
+                Console.WriteLine("######## ");
+                sayac += 1;
 
+            }
         }
 
-        public void AddCustomer()
+
+        public void Add()
         {
+            
             Console.Write("Kullanıcı adını giriniz: ");
             string name = Console.ReadLine();
             Console.Write("Kullanıcı soyadını giriniz: ");
             string lastName = Console.ReadLine();
             Console.Write("Kullanıcı TC.No giriniz: ");
             string tcNo = Console.ReadLine();
-
-
-
-            Add(new Customer() { FirstName = name, LastName = lastName, TcNo = tcNo });
+            Console.WriteLine("---Müşteri sisteme eklendi!---");
+            Console.WriteLine();
+            customers.Add(new Customer() { FirstName = name, LastName = lastName, TcNo = tcNo });
 
         }
 
@@ -103,15 +106,6 @@ namespace MyGame
             }
         }
 
-        public void ListCustomer()
-        {
-            foreach (var x in customers)
-            {
-                int sayac = 1;
-                Console.WriteLine("{0}.Müşteri adı: {1}" + "\nSoyadı: {2}" + "\nT.C.No: {3}", sayac, x.FirstName, x.LastName, x.TcNo);
-                Console.WriteLine("######## ");
-                sayac += 1;
-            }
-        }
+
     }
 }

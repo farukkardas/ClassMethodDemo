@@ -1,0 +1,13 @@
+D:\Development\VisualStudio\C#\Visual Studio C#\KampOdevler\ClassMethodDemo\bin\Debug\netcoreapp3.1\ClassMethodDemo.exe
+D:\Development\VisualStudio\C#\Visual Studio C#\KampOdevler\ClassMethodDemo\bin\Debug\netcoreapp3.1\ClassMethodDemo.deps.json
+D:\Development\VisualStudio\C#\Visual Studio C#\KampOdevler\ClassMethodDemo\bin\Debug\netcoreapp3.1\ClassMethodDemo.runtimeconfig.json
+D:\Development\VisualStudio\C#\Visual Studio C#\KampOdevler\ClassMethodDemo\bin\Debug\netcoreapp3.1\ClassMethodDemo.runtimeconfig.dev.json
+D:\Development\VisualStudio\C#\Visual Studio C#\KampOdevler\ClassMethodDemo\bin\Debug\netcoreapp3.1\ClassMethodDemo.dll
+D:\Development\VisualStudio\C#\Visual Studio C#\KampOdevler\ClassMethodDemo\bin\Debug\netcoreapp3.1\ClassMethodDemo.pdb
+D:\Development\VisualStudio\C#\Visual Studio C#\KampOdevler\ClassMethodDemo\obj\Debug\netcoreapp3.1\ClassMethodDemo.csprojAssemblyReference.cache
+D:\Development\VisualStudio\C#\Visual Studio C#\KampOdevler\ClassMethodDemo\obj\Debug\netcoreapp3.1\ClassMethodDemo.AssemblyInfoInputs.cache
+D:\Development\VisualStudio\C#\Visual Studio C#\KampOdevler\ClassMethodDemo\obj\Debug\netcoreapp3.1\ClassMethodDemo.AssemblyInfo.cs
+D:\Development\VisualStudio\C#\Visual Studio C#\KampOdevler\ClassMethodDemo\obj\Debug\netcoreapp3.1\ClassMethodDemo.csproj.CoreCompileInputs.cache
+D:\Development\VisualStudio\C#\Visual Studio C#\KampOdevler\ClassMethodDemo\obj\Debug\netcoreapp3.1\ClassMethodDemo.dll
+D:\Development\VisualStudio\C#\Visual Studio C#\KampOdevler\ClassMethodDemo\obj\Debug\netcoreapp3.1\ClassMethodDemo.pdb
+D:\Development\VisualStudio\C#\Visual Studio C#\KampOdevler\ClassMethodDemo\obj\Debug\netcoreapp3.1\ClassMethodDemo.genruntimeconfig.cache

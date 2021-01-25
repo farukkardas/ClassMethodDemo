@@ -6,12 +6,12 @@ namespace MyGame
     {
         static void Main(string[] args)
         {
-            //MenuManager menuManager = new MenuManager();
-            CustomerManagerDal customerManager = new CustomerManagerDal();
+            MenuManager menuManager = new MenuManager();
+            //CustomerManagerDal customerManager = new CustomerManagerDal();
 
-            customerManager.AddCustomer();
-            customerManager.ListCustomer();
-            //menuManager.MainMenu();
+            //customerManager.AddCustomer();
+            //customerManager.ListCustomer();
+            menuManager.MainMenu();
         }
     }
 }

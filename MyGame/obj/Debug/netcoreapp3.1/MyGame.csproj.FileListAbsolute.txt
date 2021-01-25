@@ -1,0 +1,13 @@
+D:\Development\VisualStudio\C#\Visual Studio C#\KampOdevler\MyGame\bin\Debug\netcoreapp3.1\MyGame.exe
+D:\Development\VisualStudio\C#\Visual Studio C#\KampOdevler\MyGame\bin\Debug\netcoreapp3.1\MyGame.deps.json
+D:\Development\VisualStudio\C#\Visual Studio C#\KampOdevler\MyGame\bin\Debug\netcoreapp3.1\MyGame.runtimeconfig.json
+D:\Development\VisualStudio\C#\Visual Studio C#\KampOdevler\MyGame\bin\Debug\netcoreapp3.1\MyGame.runtimeconfig.dev.json
+D:\Development\VisualStudio\C#\Visual Studio C#\KampOdevler\MyGame\bin\Debug\netcoreapp3.1\MyGame.dll
+D:\Development\VisualStudio\C#\Visual Studio C#\KampOdevler\MyGame\bin\Debug\netcoreapp3.1\MyGame.pdb
+D:\Development\VisualStudio\C#\Visual Studio C#\KampOdevler\MyGame\obj\Debug\netcoreapp3.1\MyGame.AssemblyInfoInputs.cache
+D:\Development\VisualStudio\C#\Visual Studio C#\KampOdevler\MyGame\obj\Debug\netcoreapp3.1\MyGame.AssemblyInfo.cs
+D:\Development\VisualStudio\C#\Visual Studio C#\KampOdevler\MyGame\obj\Debug\netcoreapp3.1\MyGame.csproj.CoreCompileInputs.cache
+D:\Development\VisualStudio\C#\Visual Studio C#\KampOdevler\MyGame\obj\Debug\netcoreapp3.1\MyGame.dll
+D:\Development\VisualStudio\C#\Visual Studio C#\KampOdevler\MyGame\obj\Debug\netcoreapp3.1\MyGame.pdb
+D:\Development\VisualStudio\C#\Visual Studio C#\KampOdevler\MyGame\obj\Debug\netcoreapp3.1\MyGame.genruntimeconfig.cache
+D:\Development\VisualStudio\C#\Visual Studio C#\KampOdevler\MyGame\obj\Debug\netcoreapp3.1\MyGame.csprojAssemblyReference.cache
